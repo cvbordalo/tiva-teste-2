@@ -21,11 +21,16 @@ Run Migrations
 yarn sequelize db:migrate
 ```
 
-You can use Postbird or Dbeaver as UI for the tables
-You need to use localhost as Host
+You can use Postbird or Dbeaver as UI for the tables.
+
+You need to use localhost as Host.
+
 Use port 5432
+
 Username: postgres
+
 password: docker
+
 
 Start your server
 ```bash
